@@ -1,6 +1,6 @@
 # Hi there, I'm Shavonne Reynolds! 👋
 
-![Banner Image](https://github.com/ShavonneReynolds/ShavonneReynolds/blob/main/Linkedin%20Banners%20(1).jpg)
+![Banner Image](https://github.com/ShavonneReynolds/ShavonneReynolds/blob/main/Github%20Banner.jpg)
 
 ## About Me 🚀
 
