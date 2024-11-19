@@ -34,8 +34,7 @@ I'm a passionate Data Analyst and Full Stack Developer with experience in Python
 The Portfolio Website is a **personal website that showcases my skills through all of my completed projects**. You can check out the repository [here](project_1_repository_link).
 
 ### ["The Good Place" Data Analysis](https://github.com/ShavonneReynolds/TheGoodPlace-DataAnalysis)
-
-![The Good Place Report](TheGoodPlaceDaashboardSS.png)
+![The Good Place Report](TheGoodPlaceDashboardSS.png)
 
 **The Good Place Data Analysis** is a **data analysis project focused on cleaning, visualizing, and deriving insights from viewership and ratings data for the TV show "The Good Place."** This project was built using **Excel, MySQL, and Power BI.** It showcases my skills in **data cleaning, SQL querying, exploratory data analysis, and data visualization**. 
 You can check out the repository [here](https://github.com/ShavonneReynolds/TheGoodPlace-DataAnalysis).
@@ -43,6 +42,4 @@ You can check out the repository [here](https://github.com/ShavonneReynolds/TheG
 ## Get in Touch 📬
 - **LinkedIn**: www.linkedin.com/in/theshavonnereynolds
 - **Gmail**: theshavonnereynolds@gmail.com
-
-
 
