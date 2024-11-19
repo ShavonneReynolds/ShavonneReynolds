@@ -37,7 +37,7 @@ The Portfolio Website is a **personal website that showcases my skills through a
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**The Good Place Data Analysis** is a **data analysis project focused on cleaning, visualizing, and deriving insights from viewership and ratings data for the TV show "The Good Place."** This project was built using **Excel, MySQL, Power BI, and Python.** It showcases my skills in **data cleaning, SQL querying, exploratory data analysis, data visualization, and sentiment analysis**. 
+**The Good Place Data Analysis** is a **data analysis project focused on cleaning, visualizing, and deriving insights from viewership and ratings data for the TV show "The Good Place."** This project was built using **Excel, MySQL, and Power BI.** It showcases my skills in **data cleaning, SQL querying, exploratory data analysis, and data visualization**. 
 You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
