@@ -29,9 +29,10 @@ I'm a passionate Data Analyst and Full Stack Developer with experience in Python
 
 ### [Heritage Foundation of Oswego County Database Website](https://hfdatabase.oswegohistoryrecords.org/)
 
-![Portfolio Screenshot](project_1_screenshot_url)
+![Heritage Foundation Site](https://github.com/ShavonneReynolds/ShavonneReynolds/blob/main/hfdb.png)
 
-The Portfolio Website is a **personal website that showcases my skills through all of my completed projects**. You can check out the repository [here](project_1_repository_link).
+The **Heritage Foundation of Oswego County Database Website** is a **cloud-based web application** designed to make historical property data in Oswego County accessible to the public. Developed collaboratively within a team of three, **the project leverages front-end development technologies, PHP, and phpMyAdmin** to deliver an intuitive user experience and ensure efficient backend maintenance. You can check out the application [here](https://hfdatabase.oswegohistoryrecords.org/).
+
 
 ### ["The Good Place" Data Analysis](https://github.com/ShavonneReynolds/TheGoodPlace-DataAnalysis)
 ![The Good Place Report](TheGoodPlaceDashboardSS.png)
