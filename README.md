@@ -6,8 +6,8 @@
 
 I'm a passionate Data Analyst and Full Stack Developer with experience in Excel, SQL, Power BI, Tableau, Python, JavaScript, HTML, and CSS. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Project development with Node.js and SQL databases
-- 🔭 Working on: Web Scraping with Python
+- 🌱 Currently learning: Project development with Node.js
+- 🔭 Working on: Python for Data Analysis
 - 🌍 Languages: SQL, Python, Javascript, HTML, CSS
 - 📫 How to reach me: theshavonnereynolds@gmail.com
 - ⚡ Fun fact: I love Video Games and Basketball
