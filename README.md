@@ -24,18 +24,19 @@ I'm a passionate Data Analyst, Data Entry Specialist, and Developer with experie
 
 ## Featured Projects 💻
 
+### ["The Good Place" Data Analysis](https://github.com/ShavonneReynolds/TheGoodPlace-DataAnalysis)
+![The Good Place Report](TheGoodPlaceDashboardSS.png)
+
+**The Good Place Data Analysis** is a **data analysis project focused on cleaning, visualizing, and deriving insights from viewership and ratings data for the TV show "The Good Place."** This project was built using **Excel, MySQL, and Power BI.** It showcases my skills in **data cleaning, SQL querying, exploratory data analysis, and data visualization**. 
+You can check out the repository [here](https://github.com/ShavonneReynolds/TheGoodPlace-DataAnalysis).
+
+
 ### [Heritage Foundation of Oswego County Database Website](https://hfdatabase.oswegohistoryrecords.org/)
 
 ![Heritage Foundation Site](https://github.com/ShavonneReynolds/ShavonneReynolds/blob/main/hfdb.png)
 
 The **Heritage Foundation of Oswego County Database Website** is a **cloud-based web application** designed to make historical property data in Oswego County accessible to the public. Developed collaboratively within a team of three, **the project leverages front-end development technologies, PHP, and phpMyAdmin** to deliver an intuitive user experience and ensure efficient backend maintenance. You can check out the application [here](https://hfdatabase.oswegohistoryrecords.org/).
 
-
-### ["The Good Place" Data Analysis](https://github.com/ShavonneReynolds/TheGoodPlace-DataAnalysis)
-![The Good Place Report](TheGoodPlaceDashboardSS.png)
-
-**The Good Place Data Analysis** is a **data analysis project focused on cleaning, visualizing, and deriving insights from viewership and ratings data for the TV show "The Good Place."** This project was built using **Excel, MySQL, and Power BI.** It showcases my skills in **data cleaning, SQL querying, exploratory data analysis, and data visualization**. 
-You can check out the repository [here](https://github.com/ShavonneReynolds/TheGoodPlace-DataAnalysis).
 
 ## Get in Touch 📬
 - **LinkedIn**: www.linkedin.com/in/theshavonnereynolds
