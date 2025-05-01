@@ -30,6 +30,7 @@ I'm a passionate Data Analyst, Data Entry Specialist, and Developer with experie
 **The Good Place Data Analysis** is a **data analysis project focused on cleaning, visualizing, and deriving insights from viewership and ratings data for the TV show "The Good Place."** This project was built using **Excel, MySQL, and Power BI.** It showcases my skills in **data cleaning, SQL querying, exploratory data analysis, and data visualization**. 
 You can check out the repository [here](https://github.com/ShavonneReynolds/TheGoodPlace-DataAnalysis).
 
+##
 
 ### [Heritage Foundation of Oswego County Database Website](https://hfdatabase.oswegohistoryrecords.org/)
 
