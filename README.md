@@ -6,11 +6,9 @@
 
 I'm a passionate Data Analyst and Full Stack Developer with experience in Excel, SQL, Power BI, Tableau, Python, JavaScript, HTML, and CSS. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Project development with Node.js
-- 🔭 Working on: Biking Tour Data Analysis with Python & Tableau
-- 🌍 Languages: SQL, Python, Javascript, HTML, CSS
+- 🔭 Working on: BudgetBetter- A Grocery spending tracker for budgeting insights using Excel, SQL & Tableau.
 - 📫 How to reach me: theshavonnereynolds@gmail.com
-- ⚡ Fun fact: I love Video Games and Basketball
+- ⚡ Fun fact: I love Video Games, Basketball, and Cooking
 
 ## My Skills 🧠
 
