@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Data Analyst and Full Stack Developer with experience in Excel, SQL, Power BI, Tableau, Python, JavaScript, HTML, and CSS. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Data Analyst, Data Entry Specialist, and Developer with experience in Excel, SQL, Power BI, Tableau, Python, JavaScript, HTML, and CSS. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🔭 Working on: BudgetBetter- A Grocery spending tracker for budgeting insights using Excel, SQL & Tableau.
 - 📫 How to reach me: theshavonnereynolds@gmail.com
